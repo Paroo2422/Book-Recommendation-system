@@ -1,0 +1,389 @@
+productID,reviewerID,reviewerName,reviewText,rating,reviewLen,compound,neg,pos,neu,polarity,subjectivity,flair_sentiment,flair_scaled,Liked,Liked_tb,Liked_va
+B00009W3PA,A1AHW6I678O6F2,kevin.,good item,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.882,0.03886689091782797,Liked,Liked,Liked
+B0015UGPWQ,A1AHW6I678O6F2,kevin.,very nice product,5,3,0.4754,0.0,0.607,0.393,0.78,1.0,0.9863,0.038917011052378665,Liked,Liked,Liked
+B001769IVI,A1AHW6I678O6F2,kevin.,a must for washers,5,4,0.0,0.0,0.0,1.0,0.0,0.0,0.9998,0.03892349831811629,Liked,Not Liked,Not Liked
+B00009W3PA,A8R48NKTGCJDQ,CDBrannom,Fit my new LG dryer perfectly.,5,6,0.7717,0.0,0.626,0.374,0.5121212121212121,0.6181818181818182,0.9998,0.03892349831811629,Liked,Liked,Liked
+B0015UGPWQ,A8R48NKTGCJDQ,CDBrannom,Fits perfectly,5,2,0.6369,0.0,0.808,0.192,1.0,1.0,0.9975,0.03892239308024988,Liked,Liked,Liked
+B001769IVI,A8R48NKTGCJDQ,CDBrannom,A hose was included with our machine so we didn't need this. Otherwise it would have been fine.,3,18,0.2023,0.0,0.096,0.904,0.4166666666666667,0.5,-0.9975,0.037963719365689576,Not Liked,Liked,Liked
+B00009W3PA,AR3OHHHW01A8E,Calvin E Reames,Good value for electric dryers,5,5,0.6486,0.0,0.639,0.361,0.7,0.6000000000000001,0.999,0.03892311388755407,Liked,Liked,Liked
+B000NCTOUM,AR3OHHHW01A8E,Calvin E Reames,Did the job for fixing our Maytag dryer,5,8,0.0,0.0,0.0,1.0,0.0,0.0,0.9995,0.03892335415665546,Liked,Not Liked,Not Liked
+B0015UGPWQ,AR3OHHHW01A8E,Calvin E Reames,Easy install on dryer,5,4,0.4404,0.0,0.492,0.508,0.43333333333333335,0.8333333333333334,1.0,0.03892359442575685,Liked,Liked,Liked
+B0056I99WG,AR3OHHHW01A8E,Calvin E Reames,Perfect fit for Maytag dryer,5,5,0.7351,0.0,0.674,0.326,0.7,0.7,0.9999,0.038923546371936575,Liked,Liked,Liked
+B00009W3PA,A2CIEGHZ7L1WWR,albert j. kong,Price and delivery was excellent.,5,5,0.5719,0.0,0.481,0.519,1.0,1.0,0.9976,0.03892244113407016,Liked,Liked,Liked
+B004XLDHSE,A2CIEGHZ7L1WWR,albert j. kong,Price and delivery was excellent.,5,5,0.5719,0.0,0.481,0.519,1.0,1.0,0.9976,0.03892244113407016,Liked,Liked,Liked
+B0053F80JA,A2CIEGHZ7L1WWR,albert j. kong,Price and delivery was excellent.,5,5,0.5719,0.0,0.481,0.519,1.0,1.0,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00CW0O1EW,A2CIEGHZ7L1WWR,albert j. kong,Price is good and it makes sense to have a few spare fuses on hand. Delivery was excellent.,5,18,0.8689,0.0,0.395,0.605,0.5,0.5666666666666668,0.9994,0.038923306102835176,Liked,Liked,Liked
+B00DM8J11Q,A2CIEGHZ7L1WWR,albert j. kong,Very good price & delivery,5,5,0.4927,0.0,0.444,0.556,0.9099999999999999,0.7800000000000001,0.9913,0.038919413743392604,Liked,Liked,Liked
+B00P9C66PM,A2CIEGHZ7L1WWR,albert j. kong,Price and delivery was excellent.,5,5,0.5719,0.0,0.481,0.519,1.0,1.0,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00009W3PA,A1RQQV9HYHDHDN,Adam Baer,I purchasaed a new dryer and did not want to reuse the cord from my old unit. This unit installed in a pretty straight forward manor. Quality was as expected. No Complaints,5,32,0.7299,0.033,0.201,0.765,0.11727272727272726,0.4909090909090909,0.9999,0.038923546371936575,Liked,Liked,Liked
+B00126NABC,A1RQQV9HYHDHDN,Adam Baer,"Worked as expected, quality GE product. Water tastes good. Would recommend and will buy again.",5,15,0.6597,0.0,0.293,0.707,0.3,0.5,0.9989,0.03892306583373378,Liked,Liked,Liked
+B0015UGPWQ,A1RQQV9HYHDHDN,Adam Baer,"Moved into new apt, needed dryer vent hose, this fit the bill. The compression clamps made install a snap.",5,19,0.4357,0.0,0.138,0.862,0.37878787878787873,0.6181818181818182,0.9996,0.03892340221047574,Liked,Liked,Liked
+B0006GVNOA,A8WEXFRWX1ZHH,Goldengate,"I bought this last October and finally got around to cleaning our 15-foot dryer duct run. It's just not the type of thing that's at the top of your list... like ""Wow, should I go see a movie, or clean our dryer duct?"" However, our dryer was drying slower and slower, and I knew it was a task that I needed to tackle, so I read the very long instruction book for this and began my work. The instructions really need to be re-written and simplified. My Sony TV has a smaller instruction manual. But I do appreciate the manufacturer's thoroughness. For those of you with short attention spans here's my quick start guide:
+
+1. Screw the rods together and use electrical or duct tape to reinforce the joints to keep them from unscrewing during your work.
+2. Stick one end of rod in your drill and set the clutch pretty close to the lowest or second lowest setting, then increase power if you need it.
+3. Attached brush to other end of rod with supplied key wrench / allen wrench and tighten.
+4. Make sure your drill is on clockwise - not reverse - mode or else the rods will unscrew inside your duct and you're screwed.
+5. Read #4 again.
+6. Turn dryer on air mode and then insert the brush in the pipe outside and begin spinning it by activating the drill. Push it in about a foot, then pull it out and watch the lint fly. Then push it in 2 feet and pull it out and watch the lint fly. Then 3 feet... etc.
+7. Marvel at how much lint came out.
+8. Marvel at how fast your dryer is and come write a review here.
+9. Wash the clothes you were wearing when you did this because they are now covered in lint.
+
+Hope this helps. It's a quick job and well worth it the trouble!",5,322,0.9734,0.045,0.116,0.839,0.19318840579710142,0.5217632850241545,1.0,0.03892359442575685,Liked,Liked,Liked
+B0014CN8Y8,A8WEXFRWX1ZHH,Goldengate,"I bought this last October and finally got around to cleaning our 15-foot dryer duct run. It's just not the type of thing that's at the top of your list... like ""Wow, should I go see a movie, or clean our dryer duct?"" However, our dryer was drying slower and slower, and I knew it was a task that I needed to tackle, so I read the very long instruction book for this and began my work. The instructions really need to be re-written and simplified. My Sony TV has a smaller instruction manual. But I do appreciate the manufacturer's thoroughness. For those of you with short attention spans here's my quick start guide:
+
+1. Screw the rods together and use electrical or duct tape to reinforce the joints to keep them from unscrewing during your work.
+2. Stick one end of rod in your drill and set the clutch pretty close to the lowest or second lowest setting, then increase power if you need it.
+3. Attached brush to other end of rod with supplied key wrench / allen wrench and tighten.
+4. Make sure your drill is on clockwise - not reverse - mode or else the rods will unscrew inside your duct and you're screwed.
+5. Read #4 again.
+6. Turn dryer on air mode and then insert the brush in the pipe outside and begin spinning it by activating the drill. Push it in about a foot, then pull it out and watch the lint fly. Then push it in 2 feet and pull it out and watch the lint fly. Then 3 feet... etc.
+7. Marvel at how much lint came out.
+8. Marvel at how fast your dryer is and come write a review here.
+9. Wash the clothes you were wearing when you did this because they are now covered in lint.
+
+Hope this helps. It's a quick job and well worth it the trouble!",5,322,0.9734,0.045,0.116,0.839,0.19318840579710142,0.5217632850241545,1.0,0.03892359442575685,Liked,Liked,Liked
+B0006GVNOA,A2LDP3A4IE9T6T,mike27971,"We have 24 foot of solid dryer vent pipe ending in 3 right-angles before going through the floor into the flexible dryer-vent hose coming from the dryer.  I can't get behind the dryer without moving both the washer and dryer and they are HEAVY.  So being lazy I decided to clean the vent from the outside of the house inward.  I didn't use a vacuum cleaner or a blower or suction of any kind.  I did tighten each section of tubing with pliers and taped them.  I threaded all 24 foot of tubing with the brush on the end into the outside vent and then backed it out.  I got a good amount of lint clods out.  Then I turned on the dryer to blow everything out.  I got no air coming out at all.  My fear had come true, I had forced gobs of lint into the right-angles at the end of the run.  I still didn't want to move that washer and dryer so I figured I'd try one other thing, use the clodbuster attachment.  Now I'm really getting lazy so I tightened each tubing section by hand (no pliers) and didn't use tape.  I pushed all 24 foot of tubing into the vent until I hit some resistance and then turned the tubing by hand (too lazy to hook the drill up).  Then I pulled it all out and there wasn't any lint at all that came out. So now I'm resigned to having to move the washer and dryer, but before I do I figured I might as well turn the dryer on and see what happens.  Lots of lint clods blew out and kept coming out for about 20 seconds.  I've attached pictures of it.  I'm really happy with this product and if it worked for me with all the shortcuts I took it will probably work great for you.  As a point of reference we built this house five years ago and this is the first time I ever cleaned the vent.  A load of ten bath towels used to take 45 minutes to dry, lately it's been taking 3 to 4 hours, so I knew I couldn't put cleaning the pipe off any longer.",5,371,0.9483,0.035,0.08,0.885,0.08712121212121213,0.5140151515151515,24.0,0.04997597308986065,Liked,Liked,Liked
+B0014CN8Y8,A2LDP3A4IE9T6T,mike27971,"We have 24 foot of solid dryer vent pipe ending in 3 right-angles before going through the floor into the flexible dryer-vent hose coming from the dryer.  I can't get behind the dryer without moving both the washer and dryer and they are HEAVY.  So being lazy I decided to clean the vent from the outside of the house inward.  I didn't use a vacuum cleaner or a blower or suction of any kind.  I did tighten each section of tubing with pliers and taped them.  I threaded all 24 foot of tubing with the brush on the end into the outside vent and then backed it out.  I got a good amount of lint clods out.  Then I turned on the dryer to blow everything out.  I got no air coming out at all.  My fear had come true, I had forced gobs of lint into the right-angles at the end of the run.  I still didn't want to move that washer and dryer so I figured I'd try one other thing, use the clodbuster attachment.  Now I'm really getting lazy so I tightened each tubing section by hand (no pliers) and didn't use tape.  I pushed all 24 foot of tubing into the vent until I hit some resistance and then turned the tubing by hand (too lazy to hook the drill up).  Then I pulled it all out and there wasn't any lint at all that came out. So now I'm resigned to having to move the washer and dryer, but before I do I figured I might as well turn the dryer on and see what happens.  Lots of lint clods blew out and kept coming out for about 20 seconds.  I've attached pictures of it.  I'm really happy with this product and if it worked for me with all the shortcuts I took it will probably work great for you.  As a point of reference we built this house five years ago and this is the first time I ever cleaned the vent.  A load of ten bath towels used to take 45 minutes to dry, lately it's been taking 3 to 4 hours, so I knew I couldn't put cleaning the pipe off any longer.",5,371,0.9483,0.035,0.08,0.885,0.08712121212121213,0.5140151515151515,24.0,0.04997597308986065,Liked,Liked,Liked
+B0006GVNOA,A21TPY9BVC9IKZ,Ann,"So, this is what life comes down to when you are 50 years old:  reviewing dryer vent cleaners while sitting at your kitchen table waiting for American Idol.  This is not what I envisioned when I was 12, I can tell you that much.  You kids who think it won't happen to you?
+
+It will.  Sorry to burst your bubble.
+
+That said, the product works great.  Our dryer pretty much stopped working and we were thinking we needed a new one, which was seriously going to eat into my plastic surgery budget.  One last shot before a trip to the appliance store was this Gardus LintEater.  My husband, who is not the handy one of the family, had to do the work as I have a torn labrum.  (Which sounds dirtier than it is - that's part of your shoulder.)  He, the clumsiest man in the world, had absolutely no problem using this.  I warned him to read the directions first, and he actually listened and followed.  He hooked it up to the drill, and away he went.  He got a bunch of musty, wet lint that had probably been up inside the wall since 1977  - probably consisting of bell bottom material and macram.
+
+Now our dryer actually dries clothes again, and I can continue to save for my facelift. Thank you Gardus.",5,224,0.8141,0.047,0.07,0.882,0.079263220439691,0.44471182412358884,-50.0,0.014416146083613648,Liked,Liked,Liked
+B0014CN8Y8,A21TPY9BVC9IKZ,Ann,"So, this is what life comes down to when you are 50 years old:  reviewing dryer vent cleaners while sitting at your kitchen table waiting for American Idol.  This is not what I envisioned when I was 12, I can tell you that much.  You kids who think it won't happen to you?
+
+It will.  Sorry to burst your bubble.
+
+That said, the product works great.  Our dryer pretty much stopped working and we were thinking we needed a new one, which was seriously going to eat into my plastic surgery budget.  One last shot before a trip to the appliance store was this Gardus LintEater.  My husband, who is not the handy one of the family, had to do the work as I have a torn labrum.  (Which sounds dirtier than it is - that's part of your shoulder.)  He, the clumsiest man in the world, had absolutely no problem using this.  I warned him to read the directions first, and he actually listened and followed.  He hooked it up to the drill, and away he went.  He got a bunch of musty, wet lint that had probably been up inside the wall since 1977  - probably consisting of bell bottom material and macram.
+
+Now our dryer actually dries clothes again, and I can continue to save for my facelift. Thank you Gardus.",5,224,0.8141,0.047,0.07,0.882,0.079263220439691,0.44471182412358884,-50.0,0.014416146083613648,Liked,Liked,Liked
+B0006GVNOA,A3VYM3NY7W4MX4,MarkS,"This review is for Gardus RLE202 LintEater 10-Piece Rotary Dryer Vent Cleaning System
+
+Weve been paying $75 per visit for the service guy from the appliance store to come every 4-5 months and clean the flexible duct thats routed in a less than optimal manner due to location and a variety of road blocks from the dryer to the outside wall.
+
+We knew the time was coming for a cleaning when clothes didn't dry very well and right near the end when it REALLY needed cleaning, there would actually be water on the floor under the dryer.
+
+I had to use some vacation days or lose them and was recently at home for the first time when he came. I watched the process and thought, *I* should be doing this if thats all it is!
+
+I did my research, LintEater is pretty clearly the way to go and made my purchase. Youve got to love Amazon Prime!
+
+Like with ANY product, you have weigh the number of positive reviews against the handful of bad ones. The bad reviews are likely from people who are mechanically challenged or didn't read the manual or watch YouTube videos to get an idea of how the process works.
+
+The pictures of the twisted rod? Someone had one of more of these: Speed too high, clutch too high or didn't use a clutched drill at all, pushed against an impassable bend or obstruction on the vent pipe.
+
+Disconnected or broke in the vent pipe? The rods cant come apart if you run the drill ONLY clockwise. Thats simple physics they simply cant come apart IF you use clockwise ONLY. The brush head broke or stripped out is going to be like the twisted rod; speed too high, clutch too high or didn't use a clutched drill at all, pushed against an impassable bend or obstruction on the vent pipe.
+
+- CLOCKWISE ONLY for both going into and back out of the vent tube!
+
+- My cordless drill is a Ridgid model R82005 3/8. The clutch goes from 0 to 16.5. It has a switch marked 1 & 2 for overall speed. I set the clutch to FOUR and the speed to ONE. You're not drilling holes or driving screws... you're not going as hard and fast as you can. Slow and easy wins this particular race.
+
+- I put red Loctite thread locker on the threads attaching the rotary brush head to the rod AND to the set screw.
+
+- As I added each section, I tightened them against each other with a pair of pliers on each section. THEN, I wrapped electrical tape a couple times around the joined sections. This is all just common sense insurance against disaster.
+
+- The female ends of the rod that go into the drill chuck aren't knurled, but I had no problem with them spinning in the chuck. Slow speed and minimal torque are probably why this was not an issue.
+
+NOTE: I didn't think Id need the extra rod extensions, but I do and came back to order them. To get this done for now, I had to do half from inside the house and half from outside.
+
+- INSIDE the house, vent pipe disconnected from the dryer, I used the vent insert in the vent pipe end with a Ridgid 6HP shop vac and the cleaning tool rod through the provided hole in the insert. This worked fantastically well; I had to clean the vac filter a couple times due to all the lint.
+
+- OUTSIDE the house, I didn't bother with the vacuum, figuring the birds would get whatever lint they found or the elements would just break it down pretty quickly. Turn the dryer ON to blow out the loosened lint as you clean the pipe, wear googles or something to keep the lint dust out of your eyes and off you go!",5,650,0.9737,0.029,0.066,0.905,0.027428216792623576,0.4541414141414142,75.0,0.07448342143200384,Liked,Liked,Liked
+B0014CN8Y8,A3VYM3NY7W4MX4,MarkS,"This review is for Gardus RLE202 LintEater 10-Piece Rotary Dryer Vent Cleaning System
+
+Weve been paying $75 per visit for the service guy from the appliance store to come every 4-5 months and clean the flexible duct thats routed in a less than optimal manner due to location and a variety of road blocks from the dryer to the outside wall.
+
+We knew the time was coming for a cleaning when clothes didn't dry very well and right near the end when it REALLY needed cleaning, there would actually be water on the floor under the dryer.
+
+I had to use some vacation days or lose them and was recently at home for the first time when he came. I watched the process and thought, *I* should be doing this if thats all it is!
+
+I did my research, LintEater is pretty clearly the way to go and made my purchase. Youve got to love Amazon Prime!
+
+Like with ANY product, you have weigh the number of positive reviews against the handful of bad ones. The bad reviews are likely from people who are mechanically challenged or didn't read the manual or watch YouTube videos to get an idea of how the process works.
+
+The pictures of the twisted rod? Someone had one of more of these: Speed too high, clutch too high or didn't use a clutched drill at all, pushed against an impassable bend or obstruction on the vent pipe.
+
+Disconnected or broke in the vent pipe? The rods cant come apart if you run the drill ONLY clockwise. Thats simple physics they simply cant come apart IF you use clockwise ONLY. The brush head broke or stripped out is going to be like the twisted rod; speed too high, clutch too high or didn't use a clutched drill at all, pushed against an impassable bend or obstruction on the vent pipe.
+
+- CLOCKWISE ONLY for both going into and back out of the vent tube!
+
+- My cordless drill is a Ridgid model R82005 3/8. The clutch goes from 0 to 16.5. It has a switch marked 1 & 2 for overall speed. I set the clutch to FOUR and the speed to ONE. You're not drilling holes or driving screws... you're not going as hard and fast as you can. Slow and easy wins this particular race.
+
+- I put red Loctite thread locker on the threads attaching the rotary brush head to the rod AND to the set screw.
+
+- As I added each section, I tightened them against each other with a pair of pliers on each section. THEN, I wrapped electrical tape a couple times around the joined sections. This is all just common sense insurance against disaster.
+
+- The female ends of the rod that go into the drill chuck aren't knurled, but I had no problem with them spinning in the chuck. Slow speed and minimal torque are probably why this was not an issue.
+
+NOTE: I didn't think Id need the extra rod extensions, but I do and came back to order them. To get this done for now, I had to do half from inside the house and half from outside.
+
+- INSIDE the house, vent pipe disconnected from the dryer, I used the vent insert in the vent pipe end with a Ridgid 6HP shop vac and the cleaning tool rod through the provided hole in the insert. This worked fantastically well; I had to clean the vac filter a couple times due to all the lint.
+
+- OUTSIDE the house, I didn't bother with the vacuum, figuring the birds would get whatever lint they found or the elements would just break it down pretty quickly. Turn the dryer ON to blow out the loosened lint as you clean the pipe, wear googles or something to keep the lint dust out of your eyes and off you go!",5,650,0.9737,0.029,0.066,0.905,0.027428216792623576,0.4541414141414142,75.0,0.07448342143200384,Liked,Liked,Liked
+B0006GVNOA,AMY6O4Z9HINO0,J. Foust,"The lint eater is amazing! We recently bought a house that was built in 2001 and previously owned by an older lady, so I assumed the dryer vent had never been cleaned. Before setting up the dryer, I wanted to give the vent line a thorough cleaning for safety's sake and to help the dryer run as efficiently as possible. Well, I'm glad I did! The exterior cover on the vent had been gone for some time, and the amount of leaves and pine needles plus lint wads that I got out were shocking! It seemed like every time I ran the LintEater through line, it dislodged another fist-sized wad of stuff. When I first hooked up the shop vac inside the house, and went out to the vent exit, there was almost zero air getting sucked in. The wads were so huge that they kept stopping up my shop vac hose and I had to keep going inside to clean it out. After all was said and done, my vent line is free-flowing and working as good as new. Glad I spent the money on this product!
+
+Helpful tip - when I started, I just jammed all of the rods together and tried to work it into the vent line. It's way too unwieldy this way, and every time you hit the power on the drill, the rods get kinked and knotted up because they're so flexible. Start with one, and when that one gets most of the way into the vent line, add another. Repeat as necessary and you'll have a MUCH easier time.",5,266,0.9824,0.025,0.128,0.848,0.17794612794612796,0.6132154882154881,2001.0,1.0,Liked,Liked,Liked
+B0014CN8Y8,AMY6O4Z9HINO0,J. Foust,"The lint eater is amazing! We recently bought a house that was built in 2001 and previously owned by an older lady, so I assumed the dryer vent had never been cleaned. Before setting up the dryer, I wanted to give the vent line a thorough cleaning for safety's sake and to help the dryer run as efficiently as possible. Well, I'm glad I did! The exterior cover on the vent had been gone for some time, and the amount of leaves and pine needles plus lint wads that I got out were shocking! It seemed like every time I ran the LintEater through line, it dislodged another fist-sized wad of stuff. When I first hooked up the shop vac inside the house, and went out to the vent exit, there was almost zero air getting sucked in. The wads were so huge that they kept stopping up my shop vac hose and I had to keep going inside to clean it out. After all was said and done, my vent line is free-flowing and working as good as new. Glad I spent the money on this product!
+
+Helpful tip - when I started, I just jammed all of the rods together and tried to work it into the vent line. It's way too unwieldy this way, and every time you hit the power on the drill, the rods get kinked and knotted up because they're so flexible. Start with one, and when that one gets most of the way into the vent line, add another. Repeat as necessary and you'll have a MUCH easier time.",5,266,0.9824,0.025,0.128,0.848,0.17794612794612796,0.6132154882154881,2001.0,1.0,Liked,Liked,Liked
+B0006GVNOA,A3TMNU7VNK5JJE,Lisa Rodeheaver,"At first this contraption was a little confusing. I read the directions about 3 times before I felt okay about going through with the project - was not fully confident as there were a lot of warnings about making sure the drill was going the right way/you turned it the right way so you wouldn't lose rods in the dryer vent. Scared me a little. However, the project turned out really well. We didn't lose any rods (thankfully) and we got out the birds nest that had taken residence in our dryer vent!!
+The part that was for the lint catcher was convenient as well and is actually recommended to be used at least once a month in order to clean out the lint catcher. I do need to keep up with this but it isn't convenient to have to put together and tape the rods each time when you only really use it for a couple of minutes. However, if you have a handy space to keep it already together, I can see how this would be even better for keeping up with cleaning the lint out.",3,188,0.8606,0.034,0.097,0.87,0.1956232492997199,0.5309990662931839,-3.0,0.03700144161460837,Not Liked,Liked,Liked
+B0014CN8Y8,A3TMNU7VNK5JJE,Lisa Rodeheaver,"At first this contraption was a little confusing. I read the directions about 3 times before I felt okay about going through with the project - was not fully confident as there were a lot of warnings about making sure the drill was going the right way/you turned it the right way so you wouldn't lose rods in the dryer vent. Scared me a little. However, the project turned out really well. We didn't lose any rods (thankfully) and we got out the birds nest that had taken residence in our dryer vent!!
+The part that was for the lint catcher was convenient as well and is actually recommended to be used at least once a month in order to clean out the lint catcher. I do need to keep up with this but it isn't convenient to have to put together and tape the rods each time when you only really use it for a couple of minutes. However, if you have a handy space to keep it already together, I can see how this would be even better for keeping up with cleaning the lint out.",3,188,0.8606,0.034,0.097,0.87,0.1956232492997199,0.5309990662931839,-3.0,0.03700144161460837,Not Liked,Liked,Liked
+B0006GVNOA,A1WD61B0C3KQZB,Jason W.,"Great product but they need to include more rods in the kit. I had to buy a second set of rods and that still wasn't enough so Ill end up spending $60+ dollars on this kit which isn't terrible if you factor what you would get charged out in town, but still, its plastic rods with a brush attached....thats overpriced for something so simple.
+
+So enough of me complaining about it being overpriced and get to the review. It works GREAT if you aren't an idiot and use common sense when using it.
+
+1.  Always CLOCKWISE..... again always CLOCKWISE, I cant be anymore clear about this.
+2.  Use electrical tape or duct tape as a backup in case you screw up on number 1 above. Its a good safety measure so just do it, it only takes a few seconds per rod to wrap in tape.
+3.  Feed one rod at a time, taping each one as you go.
+4.  Dont force the rods if you get resistance with the drill attached. If you get resistance, remove the drill from the rod and using your hands wiggle/shift the rods until you get past the resistance and then reconnect the drill and continue. Most likely if you reach resistance is likely one of two things. (1) You have a large bend in your duct or (2) you have a lot of blockage. If its number 2, start pulling the rod out (with or without the drill attached (if the drill remains attached, remember to always spin  CLOCKWISE) as youve probably hit a patch of lint clogged heavily in one area. Pulling the rod out will likely pull a large portion of lint youve broken loose out with the rod and brush  attachment so vacuum it up or blow it out if you have a leaf blower and then start again (I didn't disconnect rods during this step but I did take my time to hand feed the rod and brush back in to ensure I didn't damage the rods).
+5.  Once youve reached the end of your vent, start pulling your rods out the same way you went in (CLOCKWISE) so that you catch any debris you might have missed on the initial cleaning.  I pushed the brush through 2-3 times in total from different sides of the vent since I was short a few rods and used the leaf blower 4-6 times in between to ensure I was pushing any lint to the exterior of the house (never blow the leaf blower into the house, only blow to the outside of the house unless you want a HUGE mess in your house.
+6.  Lastly, Id recommend using a face mask/respirator mask as this stuff is messy and you don't know whats growing in it. I had some cheap carpentry mask but will use a better version next time I clean it as its not fun to breath in.",4,488,0.9807,0.064,0.113,0.823,0.022999592999593,0.47074481074481067,-60.0,0.009610764055742432,Liked,Liked,Liked
+B0014CN8Y8,A1WD61B0C3KQZB,Jason W.,"Great product but they need to include more rods in the kit. I had to buy a second set of rods and that still wasn't enough so Ill end up spending $60+ dollars on this kit which isn't terrible if you factor what you would get charged out in town, but still, its plastic rods with a brush attached....thats overpriced for something so simple.
+
+So enough of me complaining about it being overpriced and get to the review. It works GREAT if you aren't an idiot and use common sense when using it.
+
+1.  Always CLOCKWISE..... again always CLOCKWISE, I cant be anymore clear about this.
+2.  Use electrical tape or duct tape as a backup in case you screw up on number 1 above. Its a good safety measure so just do it, it only takes a few seconds per rod to wrap in tape.
+3.  Feed one rod at a time, taping each one as you go.
+4.  Dont force the rods if you get resistance with the drill attached. If you get resistance, remove the drill from the rod and using your hands wiggle/shift the rods until you get past the resistance and then reconnect the drill and continue. Most likely if you reach resistance is likely one of two things. (1) You have a large bend in your duct or (2) you have a lot of blockage. If its number 2, start pulling the rod out (with or without the drill attached (if the drill remains attached, remember to always spin  CLOCKWISE) as youve probably hit a patch of lint clogged heavily in one area. Pulling the rod out will likely pull a large portion of lint youve broken loose out with the rod and brush  attachment so vacuum it up or blow it out if you have a leaf blower and then start again (I didn't disconnect rods during this step but I did take my time to hand feed the rod and brush back in to ensure I didn't damage the rods).
+5.  Once youve reached the end of your vent, start pulling your rods out the same way you went in (CLOCKWISE) so that you catch any debris you might have missed on the initial cleaning.  I pushed the brush through 2-3 times in total from different sides of the vent since I was short a few rods and used the leaf blower 4-6 times in between to ensure I was pushing any lint to the exterior of the house (never blow the leaf blower into the house, only blow to the outside of the house unless you want a HUGE mess in your house.
+6.  Lastly, Id recommend using a face mask/respirator mask as this stuff is messy and you don't know whats growing in it. I had some cheap carpentry mask but will use a better version next time I clean it as its not fun to breath in.",4,488,0.9807,0.064,0.113,0.823,0.022999592999593,0.47074481074481067,-60.0,0.009610764055742432,Liked,Liked,Liked
+B0006GVNOA,A25C30G90PKSQA,CP,"first thing first: it works. the kit is great in what it consists of and the price is just right i think. to call someone to clean my dryer vents i got quoted from 80 all the way up to 200 bucks. so if you were able to do it yourself you will need to invest a bit more in a ""construction"" vacuum that cost about 80-100 bucks and start the savings basically from the second time you do it.
+
+so whats with the 3*? my brush broke inside my vent!!!! while i was pulling it out, and yes i was using a drill, all the pieces came out except the round brush. i had to climb to my attic and push it from the other side to come out... what was supposed to be an easy task ended up with me spending over an hour extra in climbing in my attic, disassembling the HVAC pipe so that i can get in there and push down on the brush...
+
+another minus for this kit is that while it is fairly bendy, it will not go very smoothly through your flexible insulated pipes and most likely push the pipe out from its connector.
+
+with all that said, if your vent duct doesnt have to many bends, and you want to take the risk (maybe i had a defective kit that the brush broke), you might save a lot of money doing it yourself!",3,242,0.8544,0.041,0.076,0.883,0.25709126984126984,0.4712301587301587,-80.0,0.0,Not Liked,Liked,Liked
+B0014CN8Y8,A25C30G90PKSQA,CP,"first thing first: it works. the kit is great in what it consists of and the price is just right i think. to call someone to clean my dryer vents i got quoted from 80 all the way up to 200 bucks. so if you were able to do it yourself you will need to invest a bit more in a ""construction"" vacuum that cost about 80-100 bucks and start the savings basically from the second time you do it.
+
+so whats with the 3*? my brush broke inside my vent!!!! while i was pulling it out, and yes i was using a drill, all the pieces came out except the round brush. i had to climb to my attic and push it from the other side to come out... what was supposed to be an easy task ended up with me spending over an hour extra in climbing in my attic, disassembling the HVAC pipe so that i can get in there and push down on the brush...
+
+another minus for this kit is that while it is fairly bendy, it will not go very smoothly through your flexible insulated pipes and most likely push the pipe out from its connector.
+
+with all that said, if your vent duct doesnt have to many bends, and you want to take the risk (maybe i had a defective kit that the brush broke), you might save a lot of money doing it yourself!",3,242,0.8544,0.041,0.076,0.883,0.25709126984126984,0.4712301587301587,-80.0,0.0,Not Liked,Liked,Liked
+B0006GVNOA,A2B2JVUX5YN8RU,Caleb,"Works great. I used it and an extension kit with extra rods to to clean a 21 foot long vent with a two right angle turns and it did a fantastic job with the adapter that lets you put the rod through and attach a shop vac. Got a TON of lint out, about a 5 gallon bucket full. Inside of the vent was left shiny and clean. Good for safety especially with such a long vent and to my surprise the dryer actually works quite a bit better now. On the auto cycle I used to have to run it again if I was drying heavy things like jeans or blankets/comforters etc... to fully dry things. Now it does it in one cycle and take about 25% less time to go through the auto dry cycle.
+
+I was just wanting to clean out a potential fire hazard but it really does make a big difference running through a dirty vent vs. a clean one. Might be due to the long length of my vent but very happy with this product.",5,181,0.9591,0.028,0.142,0.83,0.15454931972789115,0.5277636054421768,21.0,0.048534358481499285,Liked,Liked,Liked
+B0014CN8Y8,A2B2JVUX5YN8RU,Caleb,"Works great. I used it and an extension kit with extra rods to to clean a 21 foot long vent with a two right angle turns and it did a fantastic job with the adapter that lets you put the rod through and attach a shop vac. Got a TON of lint out, about a 5 gallon bucket full. Inside of the vent was left shiny and clean. Good for safety especially with such a long vent and to my surprise the dryer actually works quite a bit better now. On the auto cycle I used to have to run it again if I was drying heavy things like jeans or blankets/comforters etc... to fully dry things. Now it does it in one cycle and take about 25% less time to go through the auto dry cycle.
+
+I was just wanting to clean out a potential fire hazard but it really does make a big difference running through a dirty vent vs. a clean one. Might be due to the long length of my vent but very happy with this product.",5,181,0.9591,0.028,0.142,0.83,0.15454931972789115,0.5277636054421768,21.0,0.048534358481499285,Liked,Liked,Liked
+B0006GVNOA,A1IT56MV1C09VS,Looneypenguin,"Anyone who thinks they don't have a problem with lint should look at these pictures.  My house is only 10 years old and this is what came out of our vent.  That doesn't even include what was cleaned out from our dryer filter and what was in just the dryer unit.  This product is very easy to use.  I definitely suggest taping each junction to make sure they don't separate in the vent.  I broke my cleaning into 4 cleanings. Fist cleaning was with just the brush and the first extension.  After ensuring that section is clean I added the second and so forth until the brush came out clean.  Given the length of the brush with all four sections, I found it easier to have another set of hands guide the brush into the vent while the other set was operating the drill.
+I noticed that when I turned the dryer back on there was some lint that was dislodged and blew out the outside vent opening.  Unfortunately in my case some lodged between the slats and is keeping the vent opening from fully closing.  I will be making a trip up my ladder once the ground dries a little so I can remove those pieces.  A little price to pay for a clean vent.",5,216,0.9443,0.027,0.1,0.873,0.09458333333333332,0.5279513888888889,10.0,0.043248438250840945,Liked,Liked,Liked
+B0014CN8Y8,A1IT56MV1C09VS,Looneypenguin,"Anyone who thinks they don't have a problem with lint should look at these pictures.  My house is only 10 years old and this is what came out of our vent.  That doesn't even include what was cleaned out from our dryer filter and what was in just the dryer unit.  This product is very easy to use.  I definitely suggest taping each junction to make sure they don't separate in the vent.  I broke my cleaning into 4 cleanings. Fist cleaning was with just the brush and the first extension.  After ensuring that section is clean I added the second and so forth until the brush came out clean.  Given the length of the brush with all four sections, I found it easier to have another set of hands guide the brush into the vent while the other set was operating the drill.
+I noticed that when I turned the dryer back on there was some lint that was dislodged and blew out the outside vent opening.  Unfortunately in my case some lodged between the slats and is keeping the vent opening from fully closing.  I will be making a trip up my ladder once the ground dries a little so I can remove those pieces.  A little price to pay for a clean vent.",5,216,0.9443,0.027,0.1,0.873,0.09458333333333332,0.5279513888888889,10.0,0.043248438250840945,Liked,Liked,Liked
+B000N6302Q,A3LGZ8M29PBNGG,nerenttt,works great. we loved ours! till we didn't.  these do not last so buy the warranty as you WILL NEED IT.,2,21,0.8516,0.0,0.304,0.696,0.5583333333333333,0.5388888888888889,-0.9934,0.037965689572321,Not Liked,Liked,Liked
+B000N6302Q,A3SM7H70QI3TY8,SRH,"Be careful, NewAir will not stand by their products. Our NewAir broke within the first 4 hours of use.  The manufacturer will NOT cover the item under warranty. Just in case you're actually thinking of buying a NewAir product... think twice...
+
+From: NewAir Sales <sales@newair.com>
+Date: Fri, Nov 14, 2014 at 11:03 AM
+Subject: Re: Icemaker return
+To: Susan Ferguson <xxxxx@gwmail.gwu.edu>
+
+Hi Susan,
+
+The manufacturer warranty is void if the unit is purchased by a private seller who does not have our consent to sell our products. This is the same reason why we ask for a copy of your receipt upon requesting warranty claims because if it not from a valid authorized dealer we will not proceed with warranty work. We also list our authorized dealers on our web site for customer use. We stand behind our products, however when an item is purchased from a private seller the purchaser runs the risk of the item being used, open box, refurbished, and or a scratch and dent. Our one year limited manufacturer's warranty is only valid on new items sold by our authorized online dealers. It is unfortunate to see that you are in this situation, however you will need to contact the seller of the item for a replacement or refund.
+
+Have a great day!
+
+Mireya
+Customer Support
+NewAir | 3419 East Chapman Ave. #190 | Orange, CA 92869
+Ph: 855-963-9247 Em: sales@newair.com
+FB: facebook.com/NewAirUSA Twitter: @NewAirUSA
+Pinterest: pinterest.com/NewAirUSA Instagram: NewAirUSA
+Web: [...]
+""Made by awesome""
+
+On Thu, Nov 13, 2014 at 7:59 PM, Susan Ferguson <xxxxx@gwmail.gwu.edu> wrote:
+Hello Mireya-
+
+I'm sorry but I thought the manufacturer warranty was for the manufacturer, NewAir.  Please explain why the warranty is not valid in this case.  I don't see anywhere in the warranty exclusions that the warranty is not valid if not purchased from an authorized dealer.  In addition, a consumer would never know who ""authorized dealers"" are because if a company is selling your product doesn't that implicitly make them authorized to do so?
+
+I sincerely hope that NewAir will reconsider this position and stand by the integrity of their products.  This ice machine was literally used for four hours before failing and it is, quite frankly egregious that your company is negating a warranty that explicitly states it will repair or replace defective materials or workmanship for up to one year.
+
+Please let me know how I can talk to a dispute department regarding this matter.  I look forward to your response and I will refrain from giving any reviews of your product until this matter is resolved.
+
+Thank you,
+Susan Ferguson
+
+On Thu, Nov 13, 2014 at 3:10 PM, NewAir Sales <sales@newair.com> wrote:
+Hi Susan,
+
+Unfortunately, the ice maker was not purchased from an authorized dealer. You will need to contact the seller ""Mehadrin"" through Amazon for any existing issues on your unit.
+
+Have a great day!
+
+Mireya
+Customer Support
+NewAir | 3419 East Chapman Ave. #190 | Orange, CA 92869
+Ph: 855-963-9247 Em: sales@newair.com
+FB: facebook.com/NewAirUSA Twitter: @NewAirUSA
+Pinterest: pinterest.com/NewAirUSA Instagram: NewAirUSA
+Web: [...]
+""Made by awesome""
+
+On Thu, Nov 13, 2014 at 12:32 PM, Susan Ferguson <xxxxxxxxx@gwmail.gwu.edu> wrote:
+Hello-  I received an AI-100S icemaker in March 2014.  I used it one time and within 4 hours the cooling unit had shut down.  My best estimate is that the pump was still working (the water was getting pumped through) but the cooling mechanism was not.  When I plugged the unit back in to try it a few hours later, the cooling mechanism never turned on.
+
+Since this product is still under warranty, I am hoping to acquire a new unit since this particular one has essentially never been used and is obviously faulty in some capacity.
+
+I have attached the receipt for your reference.  It was purchased as a gift through Amazon Marketplace.  Thanks so much and I look forward to your response.
+
+Susan Ferguson",1,649,0.9935,0.038,0.102,0.86,0.07562858017403473,0.5186617254799073,-4.0,0.036520903411821244,Not Liked,Liked,Liked
+B000NCTOUM,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B001DHLGOS,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B001DPFP88,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B004XLDDNI,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B0053F80JA,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B00CW0O1EW,A3GP2HMB2AFOKF,Juan,Great product,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9886,0.03891811629024508,Liked,Liked,Liked
+B00W4YKCGC,A3GP2HMB2AFOKF,Juan,Great product fast shipping,5,4,0.6249,0.0,0.577,0.423,0.5,0.675,0.9885,0.038918068236424797,Liked,Liked,Liked
+B000NCTOUM,AJPRN1TD1A0SD,transporter,cheap,2,1,0.0,0.0,0.0,1.0,0.4,0.7,-0.9976,0.0379636713118693,Not Liked,Liked,Not Liked
+B001DHLGOS,AJPRN1TD1A0SD,transporter,cheap,2,1,0.0,0.0,0.0,1.0,0.4,0.7,-0.9976,0.0379636713118693,Not Liked,Liked,Not Liked
+B004XLDE5A,AJPRN1TD1A0SD,transporter,cheap,2,1,0.0,0.0,0.0,1.0,0.4,0.7,-0.9976,0.0379636713118693,Not Liked,Liked,Not Liked
+B0053F7TQA,AJPRN1TD1A0SD,transporter,cheap,2,1,0.0,0.0,0.0,1.0,0.4,0.7,-0.9976,0.0379636713118693,Not Liked,Liked,Not Liked
+B000NCTOUM,A1AJW9DILZFTQI,Riteway Appliance,Great deal and fast shipping!,5,5,0.6588,0.0,0.523,0.477,0.525,0.675,0.994,0.03892071119654013,Liked,Liked,Liked
+B004XLDHSE,A1AJW9DILZFTQI,Riteway Appliance,Right on time and works great,5,6,0.6249,0.0,0.451,0.549,0.5428571428571429,0.6428571428571428,0.9966,0.038921960595867375,Liked,Liked,Liked
+B0053F7TQA,A1AJW9DILZFTQI,Riteway Appliance,Great deal and fast shipping!,5,5,0.6588,0.0,0.523,0.477,0.525,0.675,0.994,0.03892071119654013,Liked,Liked,Liked
+B0053F80JA,A1AJW9DILZFTQI,Riteway Appliance,Great deal and fast shipping!,5,5,0.6588,0.0,0.523,0.477,0.525,0.675,0.994,0.03892071119654013,Liked,Liked,Liked
+B008YDSH6E,A1AJW9DILZFTQI,Riteway Appliance,Great deal and fast shipping!,5,5,0.6588,0.0,0.523,0.477,0.525,0.675,0.994,0.03892071119654013,Liked,Liked,Liked
+B000NCTOUM,A11SCLK8GDDN3C,mrclobhead,"All was fine, product was as advertised.",5,7,0.2023,0.0,0.231,0.769,0.4166666666666667,0.5,0.9949,0.038921143680922636,Liked,Liked,Liked
+B004XLDDNI,A11SCLK8GDDN3C,mrclobhead,"All was fine, product was as advertised.",5,7,0.2023,0.0,0.231,0.769,0.4166666666666667,0.5,0.9949,0.038921143680922636,Liked,Liked,Liked
+B004XLDHSE,A11SCLK8GDDN3C,mrclobhead,"ALL WAS GREAT, NO PROBLEM WORKS FINE.",5,7,0.7997,0.0,0.671,0.329,0.6083333333333334,0.625,0.9953,0.03892133589620375,Liked,Liked,Liked
+B00CW0O1EW,A11SCLK8GDDN3C,mrclobhead,"All is fine no problem to report, will definitely recommend them to my friends.",5,14,0.8849,0.0,0.579,0.421,0.20833333333333334,0.5,0.9952,0.038921287842383474,Liked,Liked,Liked
+B00DM8JA7Q,A11SCLK8GDDN3C,mrclobhead,"ALL IS FINE, ITEM WORKS GREAT.",5,6,0.7096,0.0,0.596,0.404,0.6083333333333334,0.625,0.9932,0.0389203267659779,Liked,Liked,Liked
+B00MGMWTQS,A11SCLK8GDDN3C,mrclobhead,"All was fine, product was as advertised.",5,7,0.2023,0.0,0.231,0.769,0.4166666666666667,0.5,0.9949,0.038921143680922636,Liked,Liked,Liked
+B000NCTOUM,A1LN48DHHCKLR3,Ernest Danel,received ok,5,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.5304,0.03818817876021144,Liked,Liked,Liked
+B000XXYUSM,A1LN48DHHCKLR3,Ernest Danel,received ok,5,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.5304,0.03818817876021144,Liked,Liked,Liked
+B001DHLGOS,A1LN48DHHCKLR3,Ernest Danel,received ok,5,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.5304,0.03818817876021144,Liked,Liked,Liked
+B004XLDE5A,A1LN48DHHCKLR3,Ernest Danel,received ok,5,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.5304,0.03818817876021144,Liked,Liked,Liked
+B0053F7TQA,A1LN48DHHCKLR3,Ernest Danel,received ok,5,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.5304,0.03818817876021144,Liked,Liked,Liked
+B000NCTOUM,A34A1UP40713F8,James. Backus,A spare thermofuse.  Two years ago my dryer spun but there was no heat.  I got a service tech undid the back and changed it in seconds.  So I decided for the price I ordered a spare just in case.,4,40,-0.4215,0.067,0.0,0.933,0.0,0.0,0.9999,0.038923546371936575,Liked,Not Liked,Not Liked
+B000VL060M,A34A1UP40713F8,James. Backus,I bought a new range hood and found I needed a filter as it did not come with it.  I looked at it at Home Depot for about 9 dollars more then using Amazon Prime and having it the door within 2 days. It fit perfectly our new hood.,5,49,0.8255,0.0,0.158,0.842,0.43454545454545446,0.5618181818181818,9.0,0.04276790004805382,Liked,Liked,Liked
+B0015UGPWQ,A34A1UP40713F8,James. Backus,I did not use the clamps but rather used the screw clamps I had .  Fits well and was the proper height.,4,22,0.2617,0.066,0.109,0.825,0.0,0.1,0.9996,0.03892340221047574,Liked,Not Liked,Liked
+B000VL060M,A3B1B4E184FSUZ,jobeck1,A+,5,1,0.0,0.0,0.0,1.0,0.0,0.0,0.9995,0.03892335415665546,Liked,Not Liked,Not Liked
+B0015UGPWQ,A3B1B4E184FSUZ,jobeck1,A+,5,1,0.0,0.0,0.0,1.0,0.0,0.0,0.9995,0.03892335415665546,Liked,Not Liked,Not Liked
+B000XXWOGW,A26M3TN8QICJ3K,Marty Baker,Great. Just what I needed.,5,5,0.6249,0.0,0.506,0.494,0.8,0.75,0.9976,0.03892244113407016,Liked,Liked,Liked
+B001DPFP88,A26M3TN8QICJ3K,Marty Baker,Great. Just what I needed.,5,5,0.6249,0.0,0.506,0.494,0.8,0.75,0.9976,0.03892244113407016,Liked,Liked,Liked
+B004XLDE5A,A26M3TN8QICJ3K,Marty Baker,Excellent! Exactly what I needed.,5,5,0.6114,0.0,0.499,0.501,0.625,0.625,0.9992,0.03892320999519462,Liked,Liked,Liked
+B00570RQ0A,A26M3TN8QICJ3K,Marty Baker,Excellent! Exactly what I needed.,5,5,0.6114,0.0,0.499,0.501,0.625,0.625,0.9992,0.03892320999519462,Liked,Liked,Liked
+B00DM8JA7Q,A26M3TN8QICJ3K,Marty Baker,Excellent! Exactly what I needed.,5,5,0.6114,0.0,0.499,0.501,0.625,0.625,0.9992,0.03892320999519462,Liked,Liked,Liked
+B00DM8KQ2Y,A26M3TN8QICJ3K,Marty Baker,"Awesome, exactly what I needed",5,5,0.6249,0.0,0.506,0.494,0.625,0.625,0.9981,0.03892268140317155,Liked,Liked,Liked
+B000XXWOGW,A1H2V1GNEY4LZ0,Handyman,The connect did not match up where I had to modidify it to work.,3,14,0.0,0.0,0.0,1.0,0.0,0.0,-0.9999,0.03796256607400288,Not Liked,Not Liked,Not Liked
+B00W4YKCGC,A1H2V1GNEY4LZ0,Handyman,Work perfectly and on time!,5,5,0.6696,0.0,0.529,0.471,1.0,1.0,0.9991,0.038923161941374344,Liked,Liked,Liked
+B000XXWOGW,A1EUO0BU72JR7T,Bilbo,"Consider the wisdom of spending a lot of money on replacement parts for a 10+ year old washer that you originally bought for $400. This is one of the cheaper parts so I could see getting this one (and maybe the agitator dogs and motor couplings).  If you're having problems with your motor/clutch/timer or other electrical part, you might want to think about getting another top loader like an Amana before they stop carrying them in stores in about a year or so...",5,83,0.1779,0.079,0.098,0.823,0.2125,0.45625,-10.0,0.03363767419509851,Liked,Liked,Liked
+B001DPFP88,A1EUO0BU72JR7T,Bilbo,"Consider the wisdom of spending a lot of money on replacement parts for a 10+ year old washer that you originally bought for $400. This is one of the cheaper parts so I could see getting this one (and maybe the lid switch or motor couplings).  If you're having problems with your motor/clutch/timer or other electrical part, you might want to think about getting another top loader like an Amana before they stop carrying them in stores in about a year or so...",5,83,0.4767,0.054,0.099,0.847,0.2125,0.45625,10.0,0.043248438250840945,Liked,Liked,Liked
+B00DM8J11Q,A1EUO0BU72JR7T,Bilbo,"Consider the wisdom of spending a lot of money on replacement parts for a 10+ year old washer that you originally bought for $400. This is one of the cheaper parts so I could see getting this one (and maybe the lid switch or motor couplings).  If you're having problems with your motor/clutch/timer or other electrical part, you might want to think about getting another top loader like an Amana before they stop carrying them in stores in about a year or so...",5,83,0.4767,0.054,0.099,0.847,0.2125,0.45625,10.0,0.043248438250840945,Liked,Liked,Liked
+B00MGMWTQS,A1EUO0BU72JR7T,Bilbo,"The all-plastic insert ones are better than the ones with the metal ones - I used one of the metal inserts ones and after a short while the insert just spun inside of the coupler, which made me have to replace it AND pry off the metal insert from the shaft, which was the most annoying part.",5,57,-0.024,0.049,0.048,0.903,0.04999999999999999,0.55,-1.0,0.037962518020182606,Liked,Liked,Not Liked
+B000XXWOGW,A2HDUVKXR5CM7H,MIKE,"see original remarks, made the mistake of buying it again from same dealer same problems different machine.  Save your money !!",1,21,0.2462,0.181,0.216,0.603,0.09375,0.4,-0.9999,0.03796256607400288,Not Liked,Liked,Liked
+B004XLDHSE,A2HDUVKXR5CM7H,MIKE,"works great instructions made job very simply just need the right tools, purchase kit, not just dog ears well worth the couple of extra pennies",5,25,0.7964,0.0,0.269,0.731,0.2771428571428572,0.39,0.9904,0.038918981259010096,Liked,Liked,Liked
+B00DM8JA7Q,A2HDUVKXR5CM7H,MIKE,"piece of garbage switch set to high that it will not shut off, couldn't return because it was taken out of package how else do you know if it will work if you don't take it out and try it. bad return policy",1,43,-0.5423,0.077,0.0,0.923,-0.2699999999999999,0.6033333333333333,-1.0,0.037962518020182606,Not Liked,Not Liked,Not Liked
+B000XXYUSM,A1HWFUO5PKB2RW,Greg bernal,they ok parts,3,3,0.296,0.0,0.524,0.476,0.5,0.5,-0.9274,0.03799740509370495,Not Liked,Liked,Liked
+B00470A1S0,A1HWFUO5PKB2RW,Greg bernal,it will last 6 mouths and u get to do it agian,2,12,0.0,0.0,0.0,1.0,0.0,0.06666666666666667,-6.0,0.035559827006247,Not Liked,Not Liked,Not Liked
+B0053F80JA,A1HWFUO5PKB2RW,Greg bernal,ok part,2,2,0.296,0.0,0.688,0.312,0.5,0.5,-0.7696,0.03807323402210476,Not Liked,Liked,Liked
+B0056I99WG,A1HWFUO5PKB2RW,Greg bernal,it did not last more then 3 days,1,8,0.0,0.0,0.0,1.0,0.25,0.2833333333333333,-3.0,0.03700144161460837,Not Liked,Liked,Not Liked
+B00126NABC,A3NHUQ33CFH3VM,Greeny,"This is one of the more effective water filters I've used.  It states 300 gallon service capacity.  At least I've used them for over that amount without issue.
+
+When you change filters, the flow acts funny for about the first half gallon - that's normal.  Some filters produce cloudy-looking water for the first gallon, but this one doesn't.  I've had no issues with these filters.
+
+This is by far the simplest, most secure and easiest filter to install that I've experienced.  Also, I didn't find a better deal anywhere else including the manufacturer's site.  They try to sell these single by single, but sometimes in a pack of three.
+
+It's just another filter to keep buying at its hefty price.  But its easy to install.",3,125,0.9307,0.022,0.129,0.848,0.2577380952380952,0.559077380952381,300.0,0.18260451705910621,Not Liked,Liked,Liked
+B0014CN8Y8,A3NHUQ33CFH3VM,Greeny,"This is a complete kit for cleaning the dryer vents, a necessary thing. I had checked all the products and this was the best deal at the time I got it.",5,31,0.6369,0.0,0.123,0.877,0.3666666666666667,0.5666666666666667,0.9996,0.03892340221047574,Liked,Liked,Liked
+B00126NABC,A26Y776G7VVBCQ,JPM,Works great. Best price I could find on the internest. Shipped quickly with no problems. Will buy this again in 8 months when I need another one.,4,27,0.89,0.0,0.306,0.694,0.7111111111111111,0.5166666666666667,8.0,0.0422873618452667,Liked,Liked,Liked
+B004XLDE5A,A26Y776G7VVBCQ,JPM,"This did the trick to make my dryer new again. It is a bit different than the original. You have to splice 2 wires together, so be prepared with wire cutters and something to crimp it. The replacement needs screws to secure to the element and in my bag there wasn't any, so I had to make a quick trip to the hardware store to buy them. (all of `10 cents,but added an extra hour to my repair time). All in all my clothes are actually drying at the right time now and I don't have to run it a second time. It came new in plastic bag.",4,108,0.5688,0.028,0.061,0.911,0.16667748917748915,0.40948051948051944,2.0,0.039404132628543975,Liked,Liked,Liked
+B0056I99WG,A26Y776G7VVBCQ,JPM,"I got a warehouse deal ""LIKE NEW"" and when I installed it, the coil got hot with the timer switch ""on"" but the dryer wasn't running. So in other words, I turned on the dryer to time dry 30 mins, but didn't start the tumbler yet. When I went back in the laundry room about 30 minutes later, it was incredibly hot in there, so I felt the dryer and it was very hot to the touch. I shut it off, unplugged and proceeded to see what the problem was. I changed the thermostat timer and still did the same. I found a youtube video where the guy says the heater element is grounded out and will stay on. Upon very close inspection to the element (after it cooled off), I notice one of the ceramic pieces that hold a coil was broken off and the coil was touching the casing. I flipped the coil back on the ceramic holder and plugged it back in. It worked! Well, I'm not taking any chances with this thing getting hot like it did the coil slips off the broken holder and grounds out again. This unit is going back, and I guess I know why it was in the ""used"" bin. I don't blame the manufacturer, it's just a broken unit that got re-sold. The next unit I will test BEFORE I install it. That would have saved me from a lot of trouble and potential damage from the heater coil being stuck on. Meanwhile, off to the laundrymat I go!",2,259,-0.9481,0.1,0.049,0.851,0.015223665223665226,0.39545454545454545,-30.0,0.02402691013935608,Not Liked,Liked,Not Liked
+B00570RQ0A,A26Y776G7VVBCQ,JPM,"Fixed my washer and fit perfect. Just like, well actually seemed like it designed better than the original. We'll see if it lasts 9 years like the original did.",5,29,0.9652,0.0,0.538,0.462,0.39285714285714285,0.5285714285714286,9.0,0.04276790004805382,Liked,Liked,Liked
+B0014CN8Y8,A1T1YSCDW0PD25,Lantana Al,"I used this today, going in from the roof.
+
+Pros:
+* Works great to clean out lint - almost ""fun"" to use and see the lint come out
+* Comes with a short & helpful DVD (English & French)
+* I almost gave it 5 stars but because of the cons I think 4 stars is more appropriate
+
+Cons:
+* *** BE CAREFUL *** Have to be careful not to purposely or *accidentally* put the drill into reverse or the brush head will detach/unscrew
+* *** BE CAREFUL *** Set your drill clutch to no more than half of the maximum setting or the rods may break from too much torque
+* I wonder about the possibility of a rod breaking or brush unscrewing... I wonder how tough this thing is... it seems decent, but I would be more confident if it seemed very well built instead of just ""decent"".
+
+Other:
+* See the photos I uploaded. I was surprised how much lint came out.
+* My 3-year-old enjoyed watching the DVD over and over!
+* I went in from the exhaust on the roof and had the dryer blowing cool air out",4,193,0.9671,0.047,0.15,0.802,0.16977777777777778,0.5376666666666666,5.0,0.04084574723690534,Liked,Liked,Liked
+B001769IVI,A1Y4UNHRP312HS,Colorado Jerry,I used these (2) hoses to replace the original equipment rubber hoses. My previous experience with these hoses gave me peace of mind when I would be away from my home for extended vacations. I expect years of leak-free use.,5,40,0.7003,0.0,0.132,0.868,0.10416666666666667,0.4583333333333333,2.0,0.039404132628543975,Liked,Liked,Liked
+B004UB1O9Q,A1Y4UNHRP312HS,Colorado Jerry,"This is the OEM filter. It removes contaminants and lead according to the literature, and it does improve the taste. I use the water for my coffee, tea, home made soda [Sodastream], and drinking water. Very satisfied with the taste. I also make a habit of replacing these whenever the ""replace light"" comes on.",5,54,0.7178,0.0,0.103,0.897,0.525,0.85,0.9993,0.0389232580490149,Liked,Liked,Liked
+B00AHR3IG4,A1Y4UNHRP312HS,Colorado Jerry,"This is the OEM filter. It removes contaminants and lead according to the literature, and it does improve the taste. I use the water for my coffee, tea, home made soda [Sodastream], and drinking water. Very satisfied with the taste. I also make a habit of replacing these whenever the ""replace light"" comes on.",5,54,0.7178,0.0,0.103,0.897,0.525,0.85,0.9993,0.0389232580490149,Liked,Liked,Liked
+B001DHLGOS,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B00470A1S0,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B004XLDDNI,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B004XLDE5A,A13391AZAFJ67K,Fred A,very good,5,2,0.4927,0.0,0.762,0.238,0.9099999999999999,0.7800000000000001,0.9869,0.03891729937530034,Liked,Liked,Liked
+B0056I99WG,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B00570RQ0A,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B00CW0O1EW,A13391AZAFJ67K,Fred A,Exelent,5,1,0.0,0.0,0.0,1.0,0.0,0.0,0.9997,0.038923450264296014,Liked,Not Liked,Not Liked
+B00P9C66PM,A13391AZAFJ67K,Fred A,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B001DHLGOS,A37DQO5LU8DXTV,Easy Appliance,good job,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00470A1S0,A37DQO5LU8DXTV,Easy Appliance,"Sorry about that, I took too long to leave the feedback, you are an amazing businessman.
+Thank you again.",5,19,0.7003,0.105,0.265,0.63,0.01666666666666668,0.7666666666666666,0.8788,0.03886535319557905,Liked,Liked,Liked
+B004XLDE5A,A37DQO5LU8DXTV,Easy Appliance,Good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B0056I99WG,A37DQO5LU8DXTV,Easy Appliance,Thanks,5,1,0.4404,0.0,1.0,0.0,0.2,0.2,0.9709,0.038909610764055746,Liked,Liked,Liked
+B00570RQ0A,A37DQO5LU8DXTV,Easy Appliance,good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B00CW0O1EW,A37DQO5LU8DXTV,Easy Appliance,Good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B00P9C66PM,A37DQO5LU8DXTV,Easy Appliance,Good job,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00W4YKCGC,A37DQO5LU8DXTV,Easy Appliance,Good,5,1,0.4404,0.0,1.0,0.0,0.7,0.6000000000000001,0.9314,0.038890629505045654,Liked,Liked,Liked
+B001DHLGOS,A3J8IC20SGBS2O,Mr and Mrs Burk,"As the prices go up on appliance parts, you have to look elsewhere to save money.
+  Sooooo... 30 minutes or so on You tube looking up videos showing you how to install the element could save you 100 bucks or more.
+Mr Burke",5,43,0.7506,0.0,0.135,0.865,0.5,0.5,-30.0,0.02402691013935608,Liked,Liked,Liked
+B0053F7TQA,A3J8IC20SGBS2O,Mr and Mrs Burk,"A dryer thermostat which does as it was designed, to limit the heat to the element of your dryer
+Mr Burke",5,21,0.0,0.0,0.0,1.0,0.0,0.0,0.9996,0.03892340221047574,Liked,Not Liked,Not Liked
+B0056I99WG,A3J8IC20SGBS2O,Mr and Mrs Burk,Money saver for a do-it your-selfer-excellent quality,5,7,0.0,0.0,0.0,1.0,0.0,0.0,0.999,0.03892311388755407,Liked,Not Liked,Not Liked
+B008YDSH6E,A3J8IC20SGBS2O,Mr and Mrs Burk,"I am a technician. I have been a technician since 1971. Having used Supco relays for over 30 years when they first became available,  I have always found them to be reliable and they saved me from carrying 40 or 50 types of relays in my truck.
+
+  Mr burke",5,49,0.4215,0.0,0.055,0.945,0.325,0.3666666666666667,1971.0,0.9855838539163864,Liked,Liked,Liked
+B00DM8KQ2Y,A3J8IC20SGBS2O,Mr and Mrs Burk,works perfectly,5,2,0.6369,0.0,0.808,0.192,1.0,1.0,0.9972,0.038922248918789044,Liked,Liked,Liked
+B001DPFP88,A23KSPVPHZF6EO,Angela Samos Guardia,Worked great thank you.,5,4,0.765,0.0,0.767,0.233,0.8,0.75,0.9911,0.03891931763575204,Liked,Liked,Liked
+B008YDSH6E,A23KSPVPHZF6EO,Angela Samos Guardia,Worked great thank you.,5,4,0.765,0.0,0.767,0.233,0.8,0.75,0.9911,0.03891931763575204,Liked,Liked,Liked
+B00CW0O1EW,A23KSPVPHZF6EO,Angela Samos Guardia,WONDERFUL!,5,1,0.6114,0.0,1.0,0.0,1.0,1.0,0.9979,0.038922585295531,Liked,Liked,Liked
+B00P9C66PM,A23KSPVPHZF6EO,Angela Samos Guardia,"This works great, wonderful product it worked good.",5,8,0.8934,0.0,0.682,0.318,0.8333333333333334,0.7833333333333333,0.9897,0.03891864488226814,Liked,Liked,Liked
+B001DPFP88,A6FPI5CM4W5WB,Tim Veteto,Good  Job,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00470A1S0,A6FPI5CM4W5WB,Tim Veteto,"Great product, on time.",5,4,0.6249,0.0,0.577,0.423,0.8,0.75,0.9855,0.038916626621816434,Liked,Liked,Liked
+B004XLDDNI,A6FPI5CM4W5WB,Tim Veteto,Great,5,1,0.6249,0.0,1.0,0.0,0.8,0.75,0.9901,0.03891883709754926,Liked,Liked,Liked
+B004XLDE5A,A6FPI5CM4W5WB,Tim Veteto,Great,5,1,0.6249,0.0,1.0,0.0,0.8,0.75,0.9901,0.03891883709754926,Liked,Liked,Liked
+B0053F80JA,A6FPI5CM4W5WB,Tim Veteto,Great,5,1,0.6249,0.0,1.0,0.0,0.8,0.75,0.9901,0.03891883709754926,Liked,Liked,Liked
+B0056I99WG,A6FPI5CM4W5WB,Tim Veteto,Good job,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.9976,0.03892244113407016,Liked,Liked,Liked
+B00MGMWTQS,A6FPI5CM4W5WB,Tim Veteto,Great,5,1,0.6249,0.0,1.0,0.0,0.8,0.75,0.9901,0.03891883709754926,Liked,Liked,Liked
+B001DPFP88,A3H61AMBJ177DG,Randy Bailey,as advertised,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9923,0.03891989428159539,Liked,Not Liked,Not Liked
+B00470A1S0,A3H61AMBJ177DG,Randy Bailey,as advertised,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9923,0.03891989428159539,Liked,Not Liked,Not Liked
+B00DM8KQ2Y,A3H61AMBJ177DG,Randy Bailey,as advertised,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9923,0.03891989428159539,Liked,Not Liked,Not Liked
+B00MGMWTQS,A3H61AMBJ177DG,Randy Bailey,as advertised,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9923,0.03891989428159539,Liked,Not Liked,Not Liked
+B00W4YKCGC,A3H61AMBJ177DG,Randy Bailey,as advertised.,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9949,0.038921143680922636,Liked,Not Liked,Not Liked
+B001DPFP88,AVGG8CYK8K312,Larry,great price I keep one in stock,5,7,0.6249,0.0,0.406,0.594,0.8,0.75,0.998,0.038922633349351275,Liked,Liked,Liked
+B00CW0O1EW,AVGG8CYK8K312,Larry,very low price good money maker too,5,7,0.1952,0.227,0.3,0.474,0.35,0.49500000000000005,0.9949,0.038921143680922636,Liked,Liked,Liked
+B00DM8JA7Q,AVGG8CYK8K312,Larry,These are a great buy I replace alot of them they seem to fit fine,5,15,0.8126,0.0,0.412,0.588,0.538888888888889,0.5499999999999999,0.9984,0.03892282556463239,Liked,Liked,Liked
+B00MGMWTQS,AVGG8CYK8K312,Larry,Very satisfied I love these prices and prompt  courteous service,5,10,0.8969,0.0,0.608,0.392,0.5833333333333334,0.8666666666666667,0.9894,0.038918500720807304,Liked,Liked,Liked
+B00W4YKCGC,AVGG8CYK8K312,Larry,I use these regular on my jobs I love the pricing too,5,12,0.6369,0.0,0.276,0.724,0.25,0.3384615384615385,0.9866,0.038917155213839504,Liked,Liked,Liked
+B004UB1O9Q,A329823SXZ8IBE,J!,Fit perfectly in my fridge.  No leaks and the water tastes great.,5,12,0.8625,0.105,0.514,0.381,0.7333333333333334,0.7166666666666667,0.9997,0.038923450264296014,Liked,Liked,Liked
+B00AHR3IG4,A329823SXZ8IBE,J!,Fit perfectly in my fridge.  No leaks and the water tastes great.,5,12,0.8625,0.105,0.514,0.381,0.7333333333333334,0.7166666666666667,0.9997,0.038923450264296014,Liked,Liked,Liked
+B004XLDDNI,A2V0JXLJ9VCNNX,Amazon Customer,GREAT PART.,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9957,0.03892152811148487,Liked,Liked,Liked
+B0053F80JA,A2V0JXLJ9VCNNX,Amazon Customer,WORKING GREAT,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9934,0.03892042287361846,Liked,Liked,Liked
+B0056I99WG,A2V0JXLJ9VCNNX,Amazon Customer,DRYER WORKING GREAT,5,3,0.6249,0.0,0.672,0.328,0.8,0.75,0.9955,0.038921432003844306,Liked,Liked,Liked
+B00570RQ0A,A2V0JXLJ9VCNNX,Amazon Customer,washer washing,5,2,0.0,0.0,0.0,1.0,0.0,0.0,0.9559,0.038902402691013936,Liked,Not Liked,Not Liked
+B00DM8J11Q,A2V0JXLJ9VCNNX,Amazon Customer,GOOD DOGS.,5,2,0.4404,0.0,0.744,0.256,0.7,0.6000000000000001,0.9978,0.03892253724171072,Liked,Liked,Liked
+B00MGMWTQS,A2V0JXLJ9VCNNX,Amazon Customer,JUST RIGHT...,5,2,0.0,0.0,0.0,1.0,0.2857142857142857,0.5357142857142857,0.9988,0.038923017779913506,Liked,Liked,Not Liked
+B00P9C66PM,A2V0JXLJ9VCNNX,Amazon Customer,WASHER SPINNING NOW.,5,3,0.0,0.0,0.0,1.0,0.0,0.0,0.9835,0.038915665545410864,Liked,Not Liked,Not Liked
+B004XLDE5A,AFUVGAUNQVT0S,Brian M.,"Common failure part in these dryers, but with the great price on these replacements I still have margin to make money and repair the right time the first time!",5,29,0.6996,0.061,0.169,0.769,0.15630952380952381,0.48380952380952386,0.9993,0.0389232580490149,Liked,Liked,Liked
+B008YDSH6E,AFUVGAUNQVT0S,Brian M.,These start devices are great for all domestic refrigeration start device repairs. They exceed the original device and very easy to install.,5,22,0.8622,0.0,0.336,0.664,0.4345833333333333,0.65,0.9995,0.03892335415665546,Liked,Liked,Liked
+B00CW0O1EW,AFUVGAUNQVT0S,Brian M.,This muti pack makes sure I always have the part to finish the job. I can be in and out with a check in hand.,5,25,0.6705,0.0,0.193,0.807,0.5,0.8888888888888888,0.9995,0.03892335415665546,Liked,Liked,Liked
+B00DM8J11Q,AFUVGAUNQVT0S,Brian M.,Common failure with the whilrlpool agitator after a few years of service. I'm in and out with these replacement parts on the van.,5,23,-0.6908,0.213,0.0,0.787,-0.2722222222222222,0.3,-0.9999,0.03796256607400288,Liked,Not Liked,Not Liked
+B00DM8KQ2Y,AFUVGAUNQVT0S,Brian M.,Common failure part on Whirlpool built top load washers. This is an easy replacement and the customer was up and running in no time.,5,24,-0.2023,0.182,0.156,0.662,0.07916666666666666,0.5333333333333333,-0.9225,0.03799975973089861,Liked,Liked,Not Liked
+B00P9C66PM,AFUVGAUNQVT0S,Brian M.,the spin clutch is a wear part on WP built top loaders so this clutch kit takes care of a slow spin issue and at a great price.,5,28,0.8964,0.0,0.33,0.67,0.3333333333333333,0.5499999999999999,0.9994,0.038923306102835176,Liked,Liked,Liked
+B004XLDHSE,A2O7BWHBIV1HWZ,A/C dude,Worked great!!,5,2,0.6892,0.0,0.824,0.176,1.0,0.75,0.9981,0.03892268140317155,Liked,Liked,Liked
+B00570RQ0A,A2O7BWHBIV1HWZ,A/C dude,worked great!!,5,2,0.6892,0.0,0.824,0.176,1.0,0.75,0.9981,0.03892268140317155,Liked,Liked,Liked
+B008YDSH6E,A2O7BWHBIV1HWZ,A/C dude,Worked great!! I just wonder how long they last. Guess I'll find out. This product is very easy to install!!,5,20,0.8577,0.0,0.32,0.68,0.4575520833333333,0.5541666666666667,0.9998,0.03892349831811629,Liked,Liked,Liked
+B00DM8J11Q,A2O7BWHBIV1HWZ,A/C dude,Great!!,5,1,0.6892,0.0,1.0,0.0,1.0,0.75,0.9973,0.03892229697260933,Liked,Liked,Liked
+B00DM8JA7Q,A2O7BWHBIV1HWZ,A/C dude,worked great,5,2,0.6249,0.0,0.804,0.196,0.8,0.75,0.9938,0.038920615088899574,Liked,Liked,Liked
+B00JGTUQJ6,ALZOND1IEW8KS,Bill,Filter works just like the more expensive filters,5,8,0.3612,0.0,0.263,0.737,0.0,0.6,0.9991,0.038923161941374344,Liked,Not Liked,Liked
+B00JGTUQJ6,A2OP8DEIIUESP,Chris,First time I used this brand. But will buy it again. Worked just like all the others I have bought in the past,5,23,0.5023,0.0,0.129,0.871,0.0,0.29166666666666663,0.9992,0.03892320999519462,Liked,Not Liked,Liked
