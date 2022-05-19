@@ -1,4 +1,4 @@
-# Book-Recommendation-system
+# Product-Recommendation-system using Amazon customer reviews
 ![image](https://user-images.githubusercontent.com/80713174/169184357-47f03182-c514-45e0-a9c5-7937e8976a6b.png)
 Credit: eDesk
 
